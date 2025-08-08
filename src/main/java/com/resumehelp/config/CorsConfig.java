@@ -19,6 +19,6 @@ public class CorsConfig {
                         .allowedHeaders("*") // All headers
                         .allowCredentials(true); // Allow cookies if needed
             }
-        };
+        };//ok
     }
 }
